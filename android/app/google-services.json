@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669922301681",
+    "project_id": "salah-cc5b6",
+    "storage_bucket": "salah-cc5b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669922301681:android:f00183244560996031fb50",
+        "android_client_info": {
+          "package_name": "com.example.salah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAGAgJ4TMeMHsVUQnoZJRe298X8efzFGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
